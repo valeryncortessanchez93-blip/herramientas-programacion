@@ -14,9 +14,9 @@
   <h2>Mis clases</h2>
   <ul>
     <li><a href="clase01/index.html">Clase 1 — Sobre mí (primera página HTML)</a></li>
+    <li><a href="clase02/index.html">Clase 2 — Sobre Nosotros (VALE´S VETERINARIA)</a></li>
+    <li><a href="clase03/index.html">Clase 3 — Tabla (Informacion personal)</a></li>
     
-    
-    <!-- En la próxima clase agrego aquí una línea nueva -->
   </ul>
 
   <h2>Mi proyecto</h2>
