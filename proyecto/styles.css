@@ -1,0 +1,19 @@
+/* Hoja de estilos de mi Gestor de Tareas */
+body {
+  background: #06101a;
+  color: #e6f1ff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#app-titulo {
+  color: #22d3ee;
+}
+
+.tarea {
+  background: #0c1626;
+  border: 1px solid #1c3252;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
