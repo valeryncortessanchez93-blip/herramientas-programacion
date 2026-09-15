@@ -1,0 +1,65 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e3a5f;
+    color: #222;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Fondo principal */
+.contenedor {
+    max-width: 800px;
+    margin: auto;
+    background-color: #eaf4ff;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+/* Título */
+h1 {
+    text-align: center;
+    color: #0b4f8a;
+}
+
+/* Subtítulo */
+.subtitulo {
+    text-align: center;
+    color: #555;
+}
+
+/* Línea */
+hr {
+    border: 2px solid #3b82c4;
+}
+
+/* Títulos */
+h2 {
+    color: #0b4f8a;
+}
+
+/* Lista */
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    margin: 12px 0;
+}
+
+/* Enlaces */
+a {
+    display: block;
+    background-color: #2d6fa3;
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+/* Cuando pasas el mouse */
+a:hover {
+    background-color: #174a70;
+}
+```
